@@ -14,6 +14,22 @@
         "tailwindcss": "^3.0.0",
         "@types/tailwindcss": "^3.0.0"
     },
+    "keywords": [
+        "tailwind",
+        "tailwindcss",
+        "colors",
+        "plugin",
+        "css",
+        "interpolation",
+        "gradient",
+        "palette",
+        "utilities",
+        "color-scale",
+        "design-system",
+        "theming",
+        "customization",
+        "tailwind-plugin"
+    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     }
