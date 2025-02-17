@@ -1,12 +1,12 @@
 {
-  "name": "tailwind-more-colors",
-  "version": "1.0.0",
-  "description": "Allows you more control over default tailwind colors",
-  "license": "MIT",
-  "author": "Andrew Chalupa",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "name": "tailwind-more-colors",
+    "version": "1.0.0",
+    "description": "Lets you use more colors like red-410, red-420, ... red-490.",
+    "license": "MIT",
+    "author": "Andrew Chalupa",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
 }
