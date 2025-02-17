@@ -14,7 +14,7 @@ Add the plugin to your tailwind.config.js:
 
 ```js
 module.exports = {
-    plugins: [require('@your-username/tailwind-interpolate-colors')],
+    plugins: [require('tailwind-interpolate-colors')],
 };
 ```
 
