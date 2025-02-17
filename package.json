@@ -6,6 +6,14 @@
     "author": "Andrew Chalupa",
     "type": "commonjs",
     "main": "index.js",
+    "types": "index.d.ts",
+    "peerDependencies": {
+        "tailwindcss": "^3.0.0"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.0.0",
+        "@types/tailwindcss": "^3.0.0"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     }
